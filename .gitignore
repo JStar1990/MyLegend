@@ -1,0 +1,7 @@
+Library/
+Library/**/*
+Logs/
+Logs/**/*
+Temp/
+Temp/**/*
+trunk/trunk.sln
